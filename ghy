@@ -1,0 +1,34 @@
+web前端：
+	HTML：
+	要熟练掌握div、form table、ul li 、pspan、font这些标签
+	css：
+	css要熟练掌握float、 position、width、height，以及对于的最大最小、会使用overflow、margin、padding等等
+	js：
+	JavaScript的操作属性 操作样式 数据类型 判断；
+	JavaScript的循环 自定义属性运用；
+	JavaScript的函数参数传递；
+	js解析顺序和作用域；
+	JavaScript的字符串和数组方法；
+	JavaScript的json 和 call,apply,bind；
+	JavaScript的定时器 Math数学函数、日期对象、速度运动框架、时间版运动Tween.js；
+	JavaScript的DOM操作+BOM操作+cookie操作+RegExp正则表达式+Ajax、面向对和Jquery特效；
+web后端：
+	对应jsp、javaBean 、dao层、action层和service层的业务逻辑代码。（包括数据库）
+	需要为读/写数据、读/写文件、制作业务逻辑等连接数据库
+web前端框架：
+	bootstrap框架，这个应该是所有前端开发都知道并用过的一个框架了，应为这个是目前最流行的框架，使用最广，网上文档资料模板最
+  多最容易查找的了。它提供了很多流行的样式简洁的UI组件，栅格系统以及一些常用的JavaScript插件，简洁、直观、强悍，让web开发更迅速、简单。
+	Foundation 是一个易用、强大而且灵活的响应式前端框架，用于构建基于任何设备上的响应式网站、 Web应用和电子邮件。结构语义化、移动设备优先、
+  完全可定制。
+	Semantic UI 经过多年的努力、致力于可以用更语义化的方式构建网站、原生语言规则让代码更易读易懂。
+	Amaze UI | 中国首个开源 HTML5 跨屏前端框架。Amaze UI 以移动优先（Mobile first）为理念，组件丰富，模块化；本地化支持， 关注中文排版；
+  轻量级，高性能。官网提供有丰富的模板下载。织梦系统wap手机模块就是用的就是这个。
+	SUI 是一套基于bootstrap开发的前端组件库，同时她也是一套设计规范。通过SUI，可以非常方便的设计和实现精美的页面。
+
+
+网页内容：
+	1.同学或老师对这个网站的建议和反馈。
+	2.登录系统
+	3.当下最热点的方面的计算机方面的文章的转发。
+	4.学习资料的分享，和像学校之前的一些大作业的题目和优秀的实现（关于期末考试的题目与答案可以开一个专题），所有人都可以上传。
+希望可以坚持下去，把他做成我们绿荫的一大特色。
